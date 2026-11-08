@@ -1,84 +1,93 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hi, we're Kyn-X & Kenn" width="100%" />
+<img src="assets/header.svg" alt="Hi, I'm Kyn-X" width="100%" />
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=2E6186&center=true&vCenter=true&width=700&lines=UI%2FUX+%26+Product+Design;Application+Development;Building+Auralyric+%F0%9F%8E%B5" alt="typing animation" />
-
-</div>
+<img src="assets/now-playing.svg" alt="Now building Auralyric" width="720" />
 
 <br />
 
 <img src="assets/banner.png" alt="Auralyric banner" width="100%" />
 
----
+<br />
 
-## 👋 About us
+<a href="https://github.com/kenza11-star/Auralyric"><img src="https://img.shields.io/badge/Source-Auralyric-2e6186?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+<a href="https://github.com/kenza11-star/Auralyric-app"><img src="https://img.shields.io/badge/Download-Auralyric%20App-7fd3ea?style=for-the-badge&logo=android&logoColor=1e4a6e" alt="Download" /></a>
+<a href="https://github.com/kenza11-star"><img src="https://img.shields.io/badge/GitHub-kenza11--star-3d7196?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-We're a two-person team making **Auralyric**, a music player for Android that puts as much care into how it looks as how it sounds.
+</div>
 
-| | Kyn-X | Kenn |
-|---|---|---|
-| **Role** | UI/UX & Product Design | Application Development |
-| **Focus** | Interfaces, motion, visual identity | Engineering, playback, integrations |
+<img src="assets/divider.svg" alt="" width="100%" />
 
----
+## 👋 About
 
-## 🚀 Projects
+I design and build software with a focus on how it feels to use: clear interfaces, smooth motion, and details that make a product feel finished.
+
+My current main project is **Auralyric**, a music player for Android with synced lyrics, custom icons, and a developer playground inside the app.
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 🎯 Currently
+
+- 🎵 Building **Auralyric**, a refined Android music player
+- 📦 Shipping releases through **Auralyric App**, a download page for the latest APK
+- 🎨 Working on UI motion and visual identity for the app
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 🧰 Skills
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🎵 Auralyric
-The Android app itself: built on Kotlin and Jetpack Compose, with synced lyrics, custom icons, and a developer playground.
+### 🎨 Design
+UI/UX · Product design · Motion · Visual identity
 
-<a href="https://github.com/kenza11-star/Auralyric"><img src="https://img.shields.io/badge/Source%20code-kenza11--star%2FAuralyric-2e6186?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/UI%2FUX-2E6186?style=flat-square" alt="UI/UX" />
+<img src="https://img.shields.io/badge/Motion-7FD3EA?style=flat-square&logoColor=1e4a6e" alt="Motion" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 📦 Auralyric App
-Download page and latest APK releases. Install in a few taps, no build needed.
+### 💻 Engineering
+Android · Kotlin · Compose · Build & release
 
-<a href="https://github.com/kenza11-star/Auralyric-app"><img src="https://img.shields.io/badge/Download-Auralyric--app-7fd3ea?style=for-the-badge&logo=android&logoColor=1e4a6e" alt="Download" /></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Tech stack
+## 📂 Featured repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Repository | What it is |
+|---|---|
+| [**Auralyric**](https://github.com/kenza11-star/Auralyric) | The Android music player, source code and CI build |
+| [**Auralyric-app**](https://github.com/kenza11-star/Auralyric-app) | Download page and latest APK releases |
+| [**Other repositories**](https://github.com/kenza11-star?tab=repositories) | Everything else I've been working on |
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenza11-star&show_icons=true&theme=transparent&hide_border=true&title_color=2E6186&icon_color=3D7196&text_color=3D7196" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenza11-star&layout=compact&theme=transparent&hide_border=true&title_color=2E6186&text_color=3D7196" alt="Top languages" height="170" />
-</p>
-
----
-
-## 📬 Connect
+<sub>Updated automatically every 12 hours from the GitHub API.</sub>
 
 <p align="center">
-  <a href="https://github.com/kenza11-star"><img src="https://img.shields.io/badge/GitHub-kenza11--star-2e6186?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="assets/stats.svg" alt="GitHub stats" width="500" />
+  <img src="assets/langs.svg" alt="Top languages" width="500" />
 </p>
 
 <div align="center">
-<sub>Made with care in Indonesia 🇮🇩 · Auralyric is licensed under GPL-3.0</sub>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<sub>Auralyric is licensed under GPL-3.0 · Made with care in Indonesia 🇮🇩</sub>
+
 </div>

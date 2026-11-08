@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250" viewBox="0 0 500 250">
+  <style>
+    .card { animation: pop .8s cubic-bezier(.2,.8,.2,1) both; transform-origin: center; transform-box: fill-box; }
+    @keyframes pop { from { opacity: 0; transform: translateY(10px) scale(.98); } to { opacity: 1; transform: none; } }
+    .row { opacity: 0; animation: fade .7s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes fade { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    .title { font: 700 22px Poppins, 'Segoe UI', Arial, sans-serif; fill: #2e6186; }
+    .label { font: 600 17px Poppins, 'Segoe UI', Arial, sans-serif; fill: #3d7196; }
+    .value { font: 700 17px Poppins, 'Segoe UI', Arial, sans-serif; fill: #2e6186; }
+    .sep { stroke: #cfeef7; stroke-width: 1.5; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+  </style>
+  <g class="card">
+    <rect x="2" y="2" width="496" height="246" rx="22" fill="#ffffff" stroke="#78bed7" stroke-width="1.5"/>
+    <text x="36" y="50" class="title">GitHub stats</text>
+    <line x1="36" y1="66" x2="464" y2="66" class="sep"/>
+  <g class="row" style="animation-delay:0.15s"><text x="36" y="92" class="label">Public repositories</text><text x="464" y="92" class="value" text-anchor="end">8</text></g>
+  <g class="row" style="animation-delay:0.27s"><text x="36" y="128" class="label">Total stars earned</text><text x="464" y="128" class="value" text-anchor="end">2</text></g>
+  <g class="row" style="animation-delay:0.39s"><text x="36" y="164" class="label">Followers</text><text x="464" y="164" class="value" text-anchor="end">0</text></g>
+  <g class="row" style="animation-delay:0.51s"><text x="36" y="200" class="label">Commits (all time)</text><text x="464" y="200" class="value" text-anchor="end">612</text></g>
+  </g>
+</svg>

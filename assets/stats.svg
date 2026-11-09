@@ -14,9 +14,9 @@
     <rect x="2" y="2" width="496" height="246" rx="22" fill="#ffffff" stroke="#78bed7" stroke-width="1.5"/>
     <text x="36" y="50" class="title">GitHub stats</text>
     <line x1="36" y1="66" x2="464" y2="66" class="sep"/>
-  <g class="row" style="animation-delay:0.15s"><text x="36" y="92" class="label">Public repositories</text><text x="464" y="92" class="value" text-anchor="end">9</text></g>
+  <g class="row" style="animation-delay:0.15s"><text x="36" y="92" class="label">Public repositories</text><text x="464" y="92" class="value" text-anchor="end">8</text></g>
   <g class="row" style="animation-delay:0.27s"><text x="36" y="128" class="label">Total stars earned</text><text x="464" y="128" class="value" text-anchor="end">2</text></g>
   <g class="row" style="animation-delay:0.39s"><text x="36" y="164" class="label">Followers</text><text x="464" y="164" class="value" text-anchor="end">0</text></g>
-  <g class="row" style="animation-delay:0.51s"><text x="36" y="200" class="label">Commits (all time)</text><text x="464" y="200" class="value" text-anchor="end">635</text></g>
+  <g class="row" style="animation-delay:0.51s"><text x="36" y="200" class="label">Commits (all time)</text><text x="464" y="200" class="value" text-anchor="end">624</text></g>
   </g>
 </svg>
